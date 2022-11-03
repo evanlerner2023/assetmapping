@@ -3099,7 +3099,7 @@
 		.wrapper.style3 {
 			background-color: #000;
 			color: #bfbfbf;
-			background-image: url(../../images/similar.jpg);
+			background-image: url(../../images/bg.jpg);
 			background-size: cover;
 			background-attachment: fixed;
 			background-position: center;
@@ -3111,7 +3111,7 @@
 			}
 
 			.wrapper.style3 a {
-				background-image: url(../../images/bg.jpg);
+				color: #8a4680;
 			}
 
 			.wrapper.style3 strong, .wrapper.style3 b {
@@ -4109,10 +4109,10 @@
 				}
 
 		.banner > article {
-			-moz-transition: opacity 1.5s ease, visibility 3s;
-			-webkit-transition: opacity 1.5s ease, visibility 3s;
-			-ms-transition: opacity 1.5s ease, visibility 3s;
-			transition: opacity 1.5s ease, visibility 3s;
+			-moz-transition: opacity 1.5s ease, visibility 1.5s;
+			-webkit-transition: opacity 1.5s ease, visibility 1.5s;
+			-ms-transition: opacity 1.5s ease, visibility 1.5s;
+			transition: opacity 1.5s ease, visibility 1.5s;
 			background-attachment: fixed;
 			background-position: center;
 			background-repeat: no-repeat;
